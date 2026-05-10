@@ -2,7 +2,9 @@
 
 AI-powered Blender add-on that lets you describe what you want and watch it appear. No tutorials, no manual, no learning curve.
 
-![BlendAI Preview](./preview.png)
+<p align="center">
+  <img src="./preview.png" alt="BlendAI Preview" width="100%" />
+</p>
 
 ## ✨ Features
 
